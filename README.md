@@ -10,7 +10,7 @@ documentation, and photos related to a specific module of the system.
 The goal is to faithfully reproduce a Pentagon 1024K Clone
 architecture while documenting the full hardware development process.
 
-1) Harlequin 128K Motherboard, Keyboard and Case: https://github.com/frubem/PentoGraf-Pentagon-1024k 
+1) PentoGraf 1024K Motherboard, Keyboard and Case: https://github.com/frubem/PentoGraf-Pentagon-1024k 
 2) ZX-MultiIO: https://github.com/frubem/ZX-MultiIO
 3) DivMMC Nemo: https://github.com/frubem/DivMMC-Nemo
 3) IDE Nemo: https://github.com/frubem/IDE-NEMO
